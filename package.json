@@ -1,0 +1,7 @@
+{
+  "name": "scaling-nodejs",
+  "main": "exec.js",
+  "dependencies": {
+    "child-process": "^1.0.2"
+  }
+}

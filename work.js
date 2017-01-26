@@ -1,0 +1,1 @@
+console.log("work.js is executed for "+process.argv[2]);
